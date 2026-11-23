@@ -1,0 +1,5 @@
+Buy Me a Coffee logo, used to link to the portfolio owner's support page.
+Official asset: https://cdn.buymeacoffee.com/widget/assets/coffee%20cup.svg
+Brand resources: https://buymeacoffee.com/brand
+Downloaded unchanged on 2026-10-22. Buy Me a Coffee retains its brand rights.
+buy-me-a-coffee-green.svg is a site-colored variant of the same paths: lime outlines and a dark interior. The original asset is retained for hover/focus.

@@ -1,0 +1,18 @@
+Visual Studio Code background asset credits
+
+Codicons icon artwork (unmodified font from @vscode/codicons 0.0.46-24):
+Copyright Microsoft Corporation. Licensed under CC BY 4.0.
+Source: https://github.com/microsoft/vscode-codicons
+License: https://creativecommons.org/licenses/by/4.0/
+Full license: /vscode-codicons-LICENSE.txt
+
+Seti file icons (unmodified font bundled with Visual Studio Code):
+Copyright Jesse Weed and Seti UI contributors. Licensed under MIT.
+Source: https://github.com/jesseweed/seti-ui
+Full license: /vscode-seti-LICENSE.txt
+
+Dark Modern palette and interface reference:
+https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json
+https://code.visualstudio.com/docs/editing/getting-started/userinterface
+
+This background is a decorative portfolio implementation, not the Visual Studio Code application.
